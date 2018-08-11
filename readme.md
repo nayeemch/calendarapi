@@ -9,7 +9,7 @@
 
 ## About Calendarapi
 
-Calendarapi is mainly build for a mobile app to fetch the Holiday and other special days from the webserver.
+Calendarapi is mainly build for a mobile app to fetch the Holiday and other special days list as a json from the webserver.
 
 
 ## About Laravel
